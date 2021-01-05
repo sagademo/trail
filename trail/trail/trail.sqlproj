@@ -65,5 +65,7 @@
   <ItemGroup>
     <Build Include="dbo\Tables\PURCHASE_ORDER.sql" />
     <Build Include="dbo\Stored Procedures\SelectAllCustomers.sql" />
+    <Build Include="dbo\Stored Procedures\Insertdat.sql" />
+    <Build Include="dbo\Tables\EMPLOYEE.sql" />
   </ItemGroup>
 </Project>
