@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "trail", "trail\trail.sqlproj", "{CA662A7F-0E0F-4CE0-B53C-2C522CF630F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA662A7F-0E0F-4CE0-B53C-2C522CF630F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA662A7F-0E0F-4CE0-B53C-2C522CF630F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA662A7F-0E0F-4CE0-B53C-2C522CF630F3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CA662A7F-0E0F-4CE0-B53C-2C522CF630F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA662A7F-0E0F-4CE0-B53C-2C522CF630F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA662A7F-0E0F-4CE0-B53C-2C522CF630F3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC642CD6-11EA-4471-BD76-4F9576739795}
+	EndGlobalSection
+EndGlobal

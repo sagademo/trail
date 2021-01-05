@@ -1,0 +1,71 @@
+05-01-2021 16:20:10	This log contains information about the import schema operation into project 'trail' on computer 'MOUNTAIN' by user 'admin'.
+05-01-2021 16:20:10	Import of database schema has started.
+05-01-2021 16:20:10	Gathering database options
+05-01-2021 16:20:10	Gathering users
+05-01-2021 16:20:10	Gathering roles
+05-01-2021 16:20:10	Gathering application roles
+05-01-2021 16:20:10	Gathering role memberships
+05-01-2021 16:20:10	Gathering filegroups
+05-01-2021 16:20:10	Gathering full-text catalogs
+05-01-2021 16:20:10	Gathering assemblies
+05-01-2021 16:20:10	Gathering certificates
+05-01-2021 16:20:10	Gathering asymmetric keys
+05-01-2021 16:20:10	Gathering symmetric keys
+05-01-2021 16:20:10	Gathering encrypted symmetric keys
+05-01-2021 16:20:10	Gathering schemas
+05-01-2021 16:20:10	Gathering XML schema collections
+05-01-2021 16:20:10	Gathering user-defined data types
+05-01-2021 16:20:10	Gathering user-defined types
+05-01-2021 16:20:10	Gathering table types
+05-01-2021 16:20:10	Gathering unique keys for table types
+05-01-2021 16:20:10	Gathering primary keys for table types
+05-01-2021 16:20:10	Gathering check constraints for table types
+05-01-2021 16:20:10	Gathering default constraints for table types
+05-01-2021 16:20:10	Gathering partition functions
+05-01-2021 16:20:10	Gathering partition schemes
+05-01-2021 16:20:10	Gathering functions
+05-01-2021 16:20:10	Gathering encrypted functions
+05-01-2021 16:20:10	Gathering aggregates
+05-01-2021 16:20:10	Gathering procedures
+05-01-2021 16:20:11	Gathering encrypted procedures
+05-01-2021 16:20:11	Gathering tables
+05-01-2021 16:20:11	Gathering primary keys
+05-01-2021 16:20:11	Gathering unique constraints
+05-01-2021 16:20:11	Gathering foreign keys
+05-01-2021 16:20:11	Gathering default constraints
+05-01-2021 16:20:11	Gathering check constraints
+05-01-2021 16:20:11	Gathering views
+05-01-2021 16:20:11	Gathering encrypted views
+05-01-2021 16:20:11	Gathering indexes
+05-01-2021 16:20:11	Gathering statistics
+05-01-2021 16:20:11	Gathering full-text index stoplists
+05-01-2021 16:20:11	Gathering full-text indexes
+05-01-2021 16:20:11	Gathering spatial indexes
+05-01-2021 16:20:11	Gathering XML indexes
+05-01-2021 16:20:11	Gathering encrypted triggers
+05-01-2021 16:20:11	Gathering triggers
+05-01-2021 16:20:11	Gathering encrypted and clr ddl triggers
+05-01-2021 16:20:11	Gathering ddl triggers
+05-01-2021 16:20:11	Gathering synonyms
+05-01-2021 16:20:11	Gathering defaults
+05-01-2021 16:20:11	Gathering data constraint uddt bindings
+05-01-2021 16:20:11	Gathering rules
+05-01-2021 16:20:11	Gathering data constraint uddt bindings
+05-01-2021 16:20:11	Gathering message types
+05-01-2021 16:20:11	Gathering queues
+05-01-2021 16:20:11	Gathering contracts
+05-01-2021 16:20:11	Gathering services
+05-01-2021 16:20:11	Gathering event notifications
+05-01-2021 16:20:11	Gathering remote service bindings
+05-01-2021 16:20:11	Gathering broker priorities
+05-01-2021 16:20:11	Gathering signatures
+05-01-2021 16:20:11	Gathering data compression options
+05-01-2021 16:20:11	Gathering extended properties
+05-01-2021 16:20:11	Gathering credentials
+05-01-2021 16:20:11	Gathering logins
+05-01-2021 16:20:11	Gathering server audits
+05-01-2021 16:20:11	Scanning project for duplicate elements
+05-01-2021 16:20:11	Finished duplicate element processing
+05-01-2021 16:20:11	Finished importing database.
+05-01-2021 16:20:11	A summary of the import was saved to the following location: C:\Users\admin\source\repos\trail\trail\trail\Import Schema Logs\trail_20210105105010.log
+05-01-2021 16:20:11	Click Finish to continue...
